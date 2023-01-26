@@ -1,3 +1,3 @@
 # gender
 
-boygirl girlboy kitten thing
+it/its kitten thing
